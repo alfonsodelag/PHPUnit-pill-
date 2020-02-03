@@ -1,6 +1,6 @@
 <?php
 
-class Slug
+class Util
 {
     protected $original;
 
@@ -9,7 +9,7 @@ class Slug
         $this->original = $original;
     }
 
-    public function render()
+    public function convertToSlug()
     {
         $slug = str_replace(" ", "-", $this->original);
 

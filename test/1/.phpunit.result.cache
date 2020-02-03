@@ -1,1 +1,1 @@
-C:30:"PHPUnit\Runner\TestResultCache":154:{a:2:{s:7:"defects";a:2:{s:7:"Warning";i:6;s:21:"SlugTest::test_render";i:4;}s:5:"times";a:2:{s:7:"Warning";d:0.008;s:21:"SlugTest::test_render";d:0.009;}}}
+C:30:"PHPUnit\Runner\TestResultCache":224:{a:2:{s:7:"defects";a:3:{s:7:"Warning";i:6;s:21:"SlugTest::test_render";i:4;s:21:"UtilTest::test_render";i:3;}s:5:"times";a:3:{s:7:"Warning";d:0.008;s:21:"SlugTest::test_render";d:0.009;s:21:"UtilTest::test_render";d:0.009;}}}
